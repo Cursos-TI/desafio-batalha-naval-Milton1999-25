@@ -1,5 +1,6 @@
 {
     "configurations": [
+        
     {
         "name": "(gdb) Anexação de Pipe",
         "type": "cppdbg",
